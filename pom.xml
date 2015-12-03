@@ -9,11 +9,11 @@
         <relativePath/>
     </parent>
 
-    <groupId>com.smg.portal</groupId>
-    <artifactId>smgportal</artifactId>
+    <groupId>com.sample.springbootng</groupId>
+    <artifactId>springbootng</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <packaging>war</packaging>
-    <name>smgportal</name>
+    <name>springbootng</name>
 
     <repositories>
         <repository>
